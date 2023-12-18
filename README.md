@@ -1,7 +1,7 @@
 # climit
 # PowerShell CPU Monitor
 
-This PowerShell script monitors CPU usage and takes action if it exceeds a specified threshold. If the CPU usage remains at or above the threshold for 2 minutes, it executes another PowerShell script (`chromelimit.ps1`).
+This PowerShell script monitors CPU usage and takes action if it exceeds a specified threshold. If the CPU usage remains at or above the threshold for 2 minutes, it executes another PowerShell script (`cpu.ps1`).
 
 ## Usage
 
